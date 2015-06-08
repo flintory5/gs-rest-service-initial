@@ -22,6 +22,7 @@
 
     <properties>
         <java.version>1.7</java.version>
+        <!--<start-class>org.springframework.GreetingController</start-class>-->
     </properties>
 
 
@@ -46,4 +47,5 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+    <packaging>jar</packaging>
 </project>
